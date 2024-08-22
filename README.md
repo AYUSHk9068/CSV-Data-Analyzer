@@ -1,1 +1,2 @@
 # CSV-Data-Analyzer
+In this application user will use the attached csv file or use another file and give all the appropriate path of the file and column name then the apllication will load the data from the csv file and parse it and perform the statistical operation that is mean, median, mode, standard deviation, and correlation coefficient and also plot the diffrent graphs and on the basis of data taken from  csv file it also give the answers to the questions related to statistical analysis.  
